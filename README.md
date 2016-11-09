@@ -4,3 +4,6 @@
 - MPU6050 (6DOF accelerometer and gyro)
 - TA7291P (H bridge motor driver)
 
+![sch](schematics.png)
+
+![brd](inv_pendulum.png)
