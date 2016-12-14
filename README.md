@@ -6,4 +6,4 @@
 
 ![sch](schematics.png)
 
-![brd](board.png)
+![brd](inv_pendulum.png)
